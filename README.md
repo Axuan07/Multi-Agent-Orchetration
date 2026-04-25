@@ -10,7 +10,7 @@ The project explores multi-model collaboration, dynamic agent coordination, prom
 
 ## UI Preview
 
-![UI Preview](assets/ui-preview.png)
+![UI Preview](assets)
 
 ## Key Features
 
