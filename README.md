@@ -8,10 +8,6 @@ Multi-Agent-Orchestration is a desktop-based experimental system for coordinatin
 
 The project explores multi-model collaboration, dynamic agent coordination, prompt engineering, memory-aware workflows, and human-AI interaction design. It is designed as a portfolio and research-oriented project for testing how multiple AI models can work together under a unified local orchestration framework.
 
-## UI Preview
-
-![UI Preview](assets)
-
 ## Key Features
 
 - **Provider-agnostic orchestration**: Coordinates multiple LLM providers through a replaceable slot-based design.
